@@ -14,7 +14,7 @@ y(x) = e<sup>-x</sup> * cos(5x)
 ![Funzione 1 - Eulero in avanti](/img/es1_fun1_eulero_avanti.jpg)
 
 ## Plot Eulero indietro
-![Funzione 1 - Eulero indietro](/img/es1_fun1_eulero_indietro.jpg)
+![Funzione 1 - Eulero indietro](/img/es1_fun1_eulero_indietro.jpg?)
 
 ## Plot Heun
 ![Funzione 1 - Eulero in avanti](/img/es1_fun1_heun.jpg)
