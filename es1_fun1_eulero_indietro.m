@@ -1,10 +1,10 @@
 clc
 e = exp(1);
 %-----------function-----------
-f = @(t, y) 2*y+(e^-t);
-f_y0 = 2/3;
+f = @(t, y) -y-5*(e^-t)*sin(5*t);
+f_y0 = 1;
 %------------------------------
-true_function = @(x) e^(2*x)-((e^-x)/3);
+true_function = @(x) (e^-x)*cos(5*x); 
 
 % intervallo
 a=0; b=1;
